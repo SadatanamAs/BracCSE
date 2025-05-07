@@ -75,7 +75,7 @@ class Main {
             }
         }
         
-        System.out.println(mark);
+        System.out.println("\nYour mark is: "+mark);
         input.close();
         
     }
